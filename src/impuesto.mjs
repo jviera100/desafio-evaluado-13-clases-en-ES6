@@ -21,5 +21,5 @@ class Impuesto {
     }
   }
   
-  export default Impuesto;
+export default Impuesto;
   

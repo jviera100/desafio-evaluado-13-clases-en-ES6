@@ -1,4 +1,4 @@
-import Impuesto from './impuesto.js';
+import Impuesto from './impuesto.mjs';
 
 class Cliente {
   constructor(nombre, impuesto) {
